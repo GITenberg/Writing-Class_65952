@@ -1,5 +1,8 @@
 _repo: Writing-Class_65952
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65952-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheckley, Robert
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2960
     wikipedia: https://en.wikipedia.org/wiki/Robert_Sheckley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65952#Writing-Class
 gutenberg_issued: '2021-07-29'
 gutenberg_type: Text
 identifiers:
