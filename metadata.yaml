@@ -1,0 +1,28 @@
+_repo: Writing-Class_65952
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - Barbee, Phillip
+    - Lang, Ned
+    - Barbee, Phillips
+    - O'Donnevan, Finn
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Sheckley
+description: ''
+gutenberg_issued: '2021-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Writing Class
+url: http://www.gutenberg.org/ebooks/65952
